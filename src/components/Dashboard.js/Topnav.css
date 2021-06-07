@@ -1,0 +1,14 @@
+.userblock{
+    display: flex;
+    flex-direction: row;  
+}
+.compash{
+    color: rgba(161, 161, 161, 0.897);
+}
+.limage{
+    margin-bottom: 10px!important;
+}
+.avtimage{
+    height: 50px!important;
+    width: 50px!important;
+}
